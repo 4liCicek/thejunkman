@@ -1,0 +1,288 @@
+Uri: https://ecrinhurdacilik.com/
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\index.htm
+Content Type: text/html
+
+Uri: https://ecrinhurdacilik.com/css/animations.css
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\css\animations.css
+Content Type: text/css
+
+Uri: https://ecrinhurdacilik.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ecrinhurdacilik.com/css/fonts.css
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\css\fonts.css
+Content Type: text/css
+
+Uri: https://ecrinhurdacilik.com/css/main.css
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\css\main.css
+Content Type: text/css
+
+Uri: https://ecrinhurdacilik.com/fonts/archicons4a3f.eot?3l3b66
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\archicons4a3f.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ecrinhurdacilik.com/fonts/archicons4a3f.svg?3l3b66
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\archicons4a3f.svg
+Content Type: image/svg+xml
+
+Uri: https://ecrinhurdacilik.com/fonts/archicons4a3f.ttf?3l3b66
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\archicons4a3f.ttf
+Content Type: application/font-sfnt
+
+Uri: https://ecrinhurdacilik.com/fonts/archicons4a3f.woff?3l3b66
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\archicons4a3f.woff
+Content Type: x-font/woff
+
+Uri: https://ecrinhurdacilik.com/fonts/fontawesome-webfont5b62.eot?v=4.6.3
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\fontawesome-webfont5b62.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ecrinhurdacilik.com/fonts/fontawesome-webfont5b62.svg?v=4.6.3
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\fontawesome-webfont5b62.svg
+Content Type: image/svg+xml
+
+Uri: https://ecrinhurdacilik.com/fonts/fontawesome-webfont5b62.ttf?v=4.6.3
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\fontawesome-webfont5b62.ttf
+Content Type: application/font-sfnt
+
+Uri: https://ecrinhurdacilik.com/fonts/fontawesome-webfont5b62.woff2?v=4.6.3
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\fontawesome-webfont5b62.woff2
+Content Type: font/woff2
+
+Uri: https://ecrinhurdacilik.com/fonts/fontawesome-webfont5b62.woff?v=4.6.3
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\fontawesome-webfont5b62.woff
+Content Type: x-font/woff
+
+Uri: https://ecrinhurdacilik.com/fonts/fontawesome-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ecrinhurdacilik.com/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ecrinhurdacilik.com/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://ecrinhurdacilik.com/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://ecrinhurdacilik.com/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\glyphicons-halflings-regular.woff
+Content Type: x-font/woff
+
+Uri: https://ecrinhurdacilik.com/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://ecrinhurdacilik.com/fonts/glyphicons-halflings-regulard41d.eot?
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\glyphicons-halflings-regulard41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ecrinhurdacilik.com/fonts/rt-icons-23dab.eot?wz19bt
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\rt-icons-23dab.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ecrinhurdacilik.com/fonts/rt-icons-23dab.svg?wz19bt
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\rt-icons-23dab.svg
+Content Type: image/svg+xml
+
+Uri: https://ecrinhurdacilik.com/fonts/rt-icons-23dab.ttf?wz19bt
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\rt-icons-23dab.ttf
+Content Type: application/font-sfnt
+
+Uri: https://ecrinhurdacilik.com/fonts/rt-icons-23dab.woff?wz19bt
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\rt-icons-23dab.woff
+Content Type: x-font/woff
+
+Uri: https://ecrinhurdacilik.com/fonts/rt-icons-2d41d.eot?
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\rt-icons-2d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ecrinhurdacilik.com/fonts/socicon.eot
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\socicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ecrinhurdacilik.com/fonts/socicon.svg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\socicon.svg
+Content Type: image/svg+xml
+
+Uri: https://ecrinhurdacilik.com/fonts/socicon.ttf
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\socicon.ttf
+Content Type: application/font-sfnt
+
+Uri: https://ecrinhurdacilik.com/fonts/socicon.woff
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\socicon.woff
+Content Type: x-font/woff
+
+Uri: https://ecrinhurdacilik.com/fonts/socicond41d.eot?
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\fonts\socicond41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ecrinhurdacilik.com/images/aluminyum-hurdasi.webp
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\images\aluminyum-hurdasi.webp
+Content Type: image/webp
+
+Uri: https://ecrinhurdacilik.com/images/bakir-hurdasi.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\images\bakir-hurdasi.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/images/diyarbakir-ecrin-hurdacilik.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\images\diyarbakir-ecrin-hurdacilik.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/images/ecrin-hurdacilik.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\images\ecrin-hurdacilik.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/images/krom-hurdasi.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\images\krom-hurdasi.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/images/logo.png
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\images\logo.png
+Content Type: image/png
+
+Uri: https://ecrinhurdacilik.com/images/plastik-hurdasi.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\images\plastik-hurdasi.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/images/sari-hurdasi.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\images\sari-hurdasi.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/img/aside_bg.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\aside_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/img/background_section.png
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\background_section.png
+Content Type: image/png
+
+Uri: https://ecrinhurdacilik.com/img/owl.video.play.png
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\owl.video.play.png
+Content Type: image/png
+
+Uri: https://ecrinhurdacilik.com/img/parallax/404.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\parallax\404.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/img/parallax/bottom.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\parallax\bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/img/parallax/breadcrumbs.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\parallax\breadcrumbs.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/img/parallax/features.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\parallax\features.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/img/parallax/header.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\parallax\header.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/img/parallax/map.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\parallax\map.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/img/parallax/progress.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\parallax\progress.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/img/parallax/texture.jpg
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\parallax\texture.jpg
+Content Type: image/jpeg
+
+Uri: https://ecrinhurdacilik.com/img/pattern1.png
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\pattern1.png
+Content Type: image/png
+
+Uri: https://ecrinhurdacilik.com/img/pattern10.png
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\pattern10.png
+Content Type: image/png
+
+Uri: https://ecrinhurdacilik.com/img/pattern11.png
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\pattern11.png
+Content Type: image/png
+
+Uri: https://ecrinhurdacilik.com/img/pattern2.png
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\pattern2.png
+Content Type: image/png
+
+Uri: https://ecrinhurdacilik.com/img/pattern3.png
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\pattern3.png
+Content Type: image/png
+
+Uri: https://ecrinhurdacilik.com/img/pattern4.png
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\pattern4.png
+Content Type: image/png
+
+Uri: https://ecrinhurdacilik.com/img/pattern5.png
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\pattern5.png
+Content Type: image/png
+
+Uri: https://ecrinhurdacilik.com/img/pattern6.png
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\pattern6.png
+Content Type: image/png
+
+Uri: https://ecrinhurdacilik.com/img/pattern7.png
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\pattern7.png
+Content Type: image/png
+
+Uri: https://ecrinhurdacilik.com/img/pattern8.png
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\pattern8.png
+Content Type: image/png
+
+Uri: https://ecrinhurdacilik.com/img/pattern9.png
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\pattern9.png
+Content Type: image/png
+
+Uri: https://ecrinhurdacilik.com/img/preloader.gif
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\preloader.gif
+Content Type: image/gif
+
+Uri: https://ecrinhurdacilik.com/img/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\img\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: https://ecrinhurdacilik.com/js/compressed.js
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\js\compressed.js
+Content Type: application/javascript
+
+Uri: https://ecrinhurdacilik.com/js/main.js
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://ecrinhurdacilik.com/js/vendor/modernizr-2.6.2.min.js
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\js\vendor\modernizr-2.6.2.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Abril+Fatface|Poppins:300,400,500
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/abrilfatface/v19/zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\s\abrilfatface\v19\zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-326284638
+File Name: C:\Downloaded Web Sites\ecrinhurdacilik.com\gtag\js
+Content Type: application/javascript
+
